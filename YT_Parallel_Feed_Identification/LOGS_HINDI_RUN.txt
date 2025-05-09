@@ -1,0 +1,1020 @@
+PS C:\Users\nilotpal.kumar\Downloads\YT_Parallel_Feed_Identification> & C:/Python312/python.exe c:/Users/nilotpal.kumar/Downloads/YT_Parallel_Feed_Identification/primary_parallel_feed_ide
+Fetching live video IDs for channel: UCt4t-jeY85JegMlZ-E5UWtA
+Found 11 live video IDs for channel UCt4t-jeY85JegMlZ-E5UWtA
+Video mb5ldcr1jbA is confirmed as live.
+Video kjh0gumNgbs is confirmed as live.
+Video IPwVtRypNbI is confirmed as live.
+Video 711r-LOi8qA is confirmed as live.
+Video gYJdVjlJgcs is confirmed as live.
+Video 0fYY7a226OY is confirmed as live.
+Video NyyU15mylbU is confirmed as live.
+Video NICvPNCSvr8 is confirmed as live.
+Video QRS1uxFZ3Jg is confirmed as live.
+Video Nq2wYlWFucg is confirmed as live.
+Video TosfFP9Ba6o is confirmed as live.
+Fetching live video IDs for channel: UCmphdqZNmqL72WJ2uyiNw5w
+Found 2 live video IDs for channel UCmphdqZNmqL72WJ2uyiNw5w
+Video F-4ZAt7rmK4 is confirmed as live.
+Video 35jQnxNjA0I is confirmed as live.
+Fetching live video IDs for channel: UCRWFSbif-RFENbBrSiez1DA
+Found 15 live video IDs for channel UCRWFSbif-RFENbBrSiez1DA
+Video 702Qd9jziPc is confirmed as live.
+Video Ii7azBH0g_o is confirmed as live.
+Video LwwYTpakgXY is confirmed as live.
+Video I1cPbwuMc3U is confirmed as live.
+Video 1LUBIy3TC8Q is confirmed as live.
+Video vaelARf64-I is confirmed as live.
+Video bi2uFiOyCXc is confirmed as live.
+Video sAiwrKgHt8w is confirmed as live.
+Video 5MM4g19lw6A is confirmed as live.
+Video qcc5TZs9ins is confirmed as live.
+Video 9duQp3tnnK4 is confirmed as live.
+Video TYFxmjNt4jk is confirmed as live.
+Video ae1BtMdbt5A is confirmed as live.
+Video 9duQp3tnnK4 is confirmed as live.
+Video TYFxmjNt4jk is confirmed as live.
+Video ae1BtMdbt5A is confirmed as live.
+Video TYFxmjNt4jk is confirmed as live.
+Video ae1BtMdbt5A is confirmed as live.
+Video nyd-xznCpJc is confirmed as live.
+Video nyd-xznCpJc is confirmed as live.
+Video M-qabGNBiok is confirmed as live.
+Fetching live video IDs for channel: UCttspZesZIDEwwpVIgoZtWQ
+Found 8 live video IDs for channel UCttspZesZIDEwwpVIgoZtWQ
+Video nBAQjx7Q3F8 is confirmed as live.
+Video DZEVFVdCQBk is confirmed as live.
+Video GumEVx92ZJk is confirmed as live.
+Video 8WxAI7p_TEM is confirmed as live.
+Video YzKdOKoqK-0 is confirmed as live.
+Video yb25kN14QYc is confirmed as live.
+Video d9QkyRtH9-s is confirmed as live.
+Video TKS4TNLdTUc is confirmed as live.
+Fetching live video IDs for channel: UC9CYT9gSNLevX5ey2_6CK0Q
+Found 5 live video IDs for channel UC9CYT9gSNLevX5ey2_6CK0Q
+Video KXZzQPaAPd4 is confirmed as live.
+Video y4VQylKxREc is confirmed as live.
+Video CksS6nYGSYU is confirmed as live.
+Video MN8p-Vrn6G0 is confirmed as live.
+Video -fQyqVqi7GI is confirmed as live.
+Fetching live video IDs for channel: UCx8Z14PpntdaxCt2hakbQLQ
+Found 1 live video IDs for channel UCx8Z14PpntdaxCt2hakbQLQ
+Video zNg73bbBLMI is confirmed as live.
+Fetching live video IDs for channel: UCPP3etACgdUWvizcES1dJ8Q
+Found 18 live video IDs for channel UCPP3etACgdUWvizcES1dJ8Q
+Video AEWITAY1bgA is confirmed as live.
+Video 5tq7HTaKKrQ is confirmed as live.
+Video CA6jMMPkLmw is confirmed as live.
+Video ZzGNTo-zoMA is confirmed as live.
+Video gnkuuRcX3WU is confirmed as live.
+Video uEy12NNJbG4 is confirmed as live.
+Video kHZ_TcDUdjE is confirmed as live.
+Video FdArVZEqy0M is confirmed as live.
+Video iJdZeUDG6VM is confirmed as live.
+Video q-4ZRqPZWXs is confirmed as live.
+Video IkDSqjtefGw is confirmed as live.
+Video _hRt50McZCw is confirmed as live.
+Video ZYzEjl08SaA is confirmed as live.
+Video uSV_k_ElgdI is confirmed as live.
+Video HBorWH77wPs is confirmed as live.
+Video eVwzlWDNi7I is confirmed as live.
+Video 9sxl-52PmQ4 is confirmed as live.
+Video Cp5sPi3WPxo is confirmed as live.
+Fetching live video IDs for channel: UCsNdeLwEZf86swPD3qJJ7Dw
+Found 14 live video IDs for channel UCsNdeLwEZf86swPD3qJJ7Dw
+Video H-XMA6les2g is confirmed as live.
+Video D_rFpnbSW_s is confirmed as live.
+Video 8brv0Yb1Scs is confirmed as live.
+Video pMoT5IHpIFY is confirmed as live.
+Video TpZTwwQgVZw is confirmed as live.
+Video kb2TyUTqCUM is confirmed as live.
+Video 6P5baQUH8Gw is confirmed as live.
+Video P4QxK9FCTTA is confirmed as live.
+Video No54IfiXzvk is confirmed as live.
+Video MQrWibf9w7k is confirmed as live.
+Video cEjuoCwX9jU is confirmed as live.
+Video h6aL8GmBInk is confirmed as live.
+Video CDY3jYqQuAU is confirmed as live.
+Video JsIkA2NtEgM is confirmed as live.
+Fetching live video IDs for channel: UCMk9Tdc-d1BIcAFaSppiVkw
+Found 7 live video IDs for channel UCMk9Tdc-d1BIcAFaSppiVkw
+Video akQe6gtHn2Q is confirmed as live.
+Video 3-z974Ri-mc is confirmed as live.
+Video EgEnviEZcOQ is confirmed as live.
+Video 12Jj9wLGMeM is confirmed as live.
+Video hdVG9MnuSP0 is confirmed as live.
+Video D-sf_AKd2BI is confirmed as live.
+Video vawSzkxqbdA is confirmed as live.
+Fetching live video IDs for channel: UCKwucPzHZ7zCUIf7If-Wo1g
+Found 1 live video IDs for channel UCKwucPzHZ7zCUIf7If-Wo1g
+Video llE9XzYrYBs is confirmed as live.
+Fetching live video IDs for channel: UCOutOIcn_oho8pyVN3Ng-Pg
+Found 9 live video IDs for channel UCOutOIcn_oho8pyVN3Ng-Pg
+Video 1ZyyuDhPJ4g is confirmed as live.
+Video oMkaTNu7i8A is confirmed as live.
+Video 6QX8JnNveKY is confirmed as live.
+Video kuB7v-yvz7w is confirmed as live.
+Video t5rX2IXs33w is confirmed as live.
+Video G8LgWx8HM3Y is confirmed as live.
+Video joafsxyrKPI is confirmed as live.
+Video rMy5NNRmnFI is confirmed as live.
+Video UGglAOLjqbo is confirmed as live.
+Fetching live video IDs for channel: UC7wXt18f2iA3EDXeqAVuKng
+Found 14 live video IDs for channel UC7wXt18f2iA3EDXeqAVuKng
+Video 4jgUxGRUsOE is confirmed as live.
+Video tERI07oRr-U is confirmed as live.
+Video Z6NhxuUPGTM is confirmed as live.
+Video SSxjnlGN-4I is confirmed as live.
+Video EIHd4DZPVyU is confirmed as live.
+Video 02PasK-VrMM is confirmed as live.
+Video p_gcfGd2dZA is confirmed as live.
+Video BVhoc0-RBvE is confirmed as live.
+Video jD5tGyI82Q0 is confirmed as live.
+Video t3ohKtFwrxA is confirmed as live.
+Video M-q2kx2oTF8 is confirmed as live.
+Video ZwD3-hUQ3rk is confirmed as live.
+Video LGGbVgKpSU0 is confirmed as live.
+Video GGeWLMsW1tU is confirmed as live.
+Fetching live video IDs for channel: UCIvaYmXn910QMdemBG3v1pQ
+Found 10 live video IDs for channel UCIvaYmXn910QMdemBG3v1pQ
+Video YSeRpXPEslw is confirmed as live.
+Video JfxnVTCjS8c is confirmed as live.
+Video frXJvqqJC38 is confirmed as live.
+Video Tg81TxZLitM is confirmed as live.
+Video bQ7eI2OCBSM is confirmed as live.
+Video UJajekXkAuA is confirmed as live.
+Video YGE_3mSN_iA is confirmed as live.
+Video TPcmrPrygDc is confirmed as live.
+Video Xri7_l5l1RQ is confirmed as live.
+Video CYICmRJhI9U is confirmed as live.
+Fetching live video IDs for channel: UCuzS3rPQAYqHcLWqOFuY0pw
+Found 2 live video IDs for channel UCuzS3rPQAYqHcLWqOFuY0pw
+Video -qYSlUR_5xo is confirmed as live.
+Video IMLKyYzzQlQ is confirmed as live.
+Fetching live video IDs for channel: UCQC1wGbOOIoC23fRGxt4kbg
+Found 1 live video IDs for channel UCQC1wGbOOIoC23fRGxt4kbg
+Video CaiAlIIEgs0 is confirmed as live.
+Fetching live video IDs for channel: UCcH1_Lw_VbQoxGgDJ2OW0LQ
+Found 11 live video IDs for channel UCcH1_Lw_VbQoxGgDJ2OW0LQ
+Video fciIjCyWoKo is confirmed as live.
+Video gESg6igq4kg is confirmed as live.
+Video mQafLgG46UY is confirmed as live.
+Video sLCErM2Q72g is confirmed as live.
+Video o53NAckX2Bw is confirmed as live.
+Video p7nxoS1XCjw is confirmed as live.
+Video zCjByE9_Meg is confirmed as live.
+Video VaO1njChY60 is confirmed as live.
+Video ZZGbHl9CA80 is confirmed as live.
+Video lMJRS3h5ofk is confirmed as live.
+Video lmgy3Fgld5E is confirmed as live.
+Final list of live videos with primary marked:
+                   Channel_ID     Video_ID        Published_Date   Published_Date_IST Channel_Name   Primary_ID  SSIM   MSE Is_Parallel
+0    UCt4t-jeY85JegMlZ-E5UWtA  mb5ldcr1jbA  2024-10-21T01:30:24Z  2024-10-21 07:00:24      Aaj Tak  Nq2wYlWFucg  None  None        None
+1    UCt4t-jeY85JegMlZ-E5UWtA  kjh0gumNgbs  2024-10-21T04:37:36Z  2024-10-21 10:07:36      Aaj Tak  Nq2wYlWFucg  None  None        None
+2    UCt4t-jeY85JegMlZ-E5UWtA  IPwVtRypNbI  2024-10-21T01:49:53Z  2024-10-21 07:19:53      Aaj Tak  Nq2wYlWFucg  None  None        None
+3    UCt4t-jeY85JegMlZ-E5UWtA  711r-LOi8qA  2024-10-20T18:01:32Z  2024-10-20 23:31:32      Aaj Tak  Nq2wYlWFucg  None  None        None
+4    UCt4t-jeY85JegMlZ-E5UWtA  gYJdVjlJgcs  2024-10-21T05:15:28Z  2024-10-21 10:45:28      Aaj Tak  Nq2wYlWFucg  None  None        None
+..                        ...          ...                   ...                  ...          ...          ...   ...   ...         ...
+124  UCcH1_Lw_VbQoxGgDJ2OW0LQ  zCjByE9_Meg  2024-10-21T02:21:17Z  2024-10-21 07:51:17   India News  lmgy3Fgld5E  None  None        None
+125  UCcH1_Lw_VbQoxGgDJ2OW0LQ  VaO1njChY60  2024-10-21T02:35:46Z  2024-10-21 08:05:46   India News  lmgy3Fgld5E  None  None        None
+126  UCcH1_Lw_VbQoxGgDJ2OW0LQ  ZZGbHl9CA80  2024-10-21T05:15:11Z  2024-10-21 10:45:11   India News  lmgy3Fgld5E  None  None        None
+127  UCcH1_Lw_VbQoxGgDJ2OW0LQ  lMJRS3h5ofk  2024-10-01T11:22:46Z  2024-10-01 16:52:46   India News  lmgy3Fgld5E  None  None        None
+128  UCcH1_Lw_VbQoxGgDJ2OW0LQ  lmgy3Fgld5E  2024-04-18T16:03:07Z  2024-04-18 21:33:07   India News  lmgy3Fgld5E  None  None        None
+
+[129 rows x 9 columns]
+Comparing primary video Nq2wYlWFucg with video mb5ldcr1jbA
+Capturing frame from: https://www.youtube.com/watch?v=Nq2wYlWFucg (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=mb5ldcr1jbA (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=Nq2wYlWFucg
+Successfully captured frame from: https://www.youtube.com/watch?v=mb5ldcr1jbA
+SSIM score: 0.3880378768507474, MSE: 103.56505883487654
+Video mb5ldcr1jbA from Aaj Tak is not a parallel feed (SSIM <= 0.85)
+Comparing primary video Nq2wYlWFucg with video kjh0gumNgbs
+Capturing frame from: https://www.youtube.com/watch?v=Nq2wYlWFucg (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=kjh0gumNgbs (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=kjh0gumNgbs
+Successfully captured frame from: https://www.youtube.com/watch?v=Nq2wYlWFucg
+SSIM score: 0.3113923510135893, MSE: 105.61587432484568
+Video kjh0gumNgbs from Aaj Tak is not a parallel feed (SSIM <= 0.85)
+Comparing primary video Nq2wYlWFucg with video IPwVtRypNbI
+Capturing frame from: https://www.youtube.com/watch?v=Nq2wYlWFucg (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=IPwVtRypNbI (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=IPwVtRypNbI
+Successfully captured frame from: https://www.youtube.com/watch?v=Nq2wYlWFucg
+SSIM score: 0.3777988362707418, MSE: 109.9712070794753
+Video IPwVtRypNbI from Aaj Tak is not a parallel feed (SSIM <= 0.85)
+Comparing primary video Nq2wYlWFucg with video 711r-LOi8qA
+Capturing frame from: https://www.youtube.com/watch?v=Nq2wYlWFucg (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=711r-LOi8qA (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=Nq2wYlWFucg
+Successfully captured frame from: https://www.youtube.com/watch?v=711r-LOi8qA
+SSIM score: 0.32483514672884173, MSE: 102.3842115162037
+Video 711r-LOi8qA from Aaj Tak is not a parallel feed (SSIM <= 0.85)
+Comparing primary video Nq2wYlWFucg with video gYJdVjlJgcs
+Capturing frame from: https://www.youtube.com/watch?v=Nq2wYlWFucg (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=gYJdVjlJgcs (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=Nq2wYlWFucg
+Successfully captured frame from: https://www.youtube.com/watch?v=gYJdVjlJgcs
+SSIM score: 0.175527212345659, MSE: 102.85772280092593
+Video gYJdVjlJgcs from Aaj Tak is not a parallel feed (SSIM <= 0.85)
+Comparing primary video Nq2wYlWFucg with video 0fYY7a226OY
+Capturing frame from: https://www.youtube.com/watch?v=Nq2wYlWFucg (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=0fYY7a226OY (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=Nq2wYlWFucg
+Successfully captured frame from: https://www.youtube.com/watch?v=0fYY7a226OY
+SSIM score: 0.35427077542250757, MSE: 105.76251543209877
+Video 0fYY7a226OY from Aaj Tak is not a parallel feed (SSIM <= 0.85)
+Comparing primary video Nq2wYlWFucg with video NyyU15mylbU
+Capturing frame from: https://www.youtube.com/watch?v=Nq2wYlWFucg (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=NyyU15mylbU (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=NyyU15mylbU
+Successfully captured frame from: https://www.youtube.com/watch?v=Nq2wYlWFucg
+SSIM score: 0.39000713794168035, MSE: 106.7221590470679
+Video NyyU15mylbU from Aaj Tak is not a parallel feed (SSIM <= 0.85)
+Comparing primary video Nq2wYlWFucg with video NICvPNCSvr8
+Capturing frame from: https://www.youtube.com/watch?v=Nq2wYlWFucg (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=NICvPNCSvr8 (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=Nq2wYlWFucg
+Successfully captured frame from: https://www.youtube.com/watch?v=NICvPNCSvr8
+SSIM score: 0.3445459149492117, MSE: 104.87935860339506
+Video NICvPNCSvr8 from Aaj Tak is not a parallel feed (SSIM <= 0.85)
+Comparing primary video Nq2wYlWFucg with video QRS1uxFZ3Jg
+Capturing frame from: https://www.youtube.com/watch?v=Nq2wYlWFucg (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=QRS1uxFZ3Jg (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=QRS1uxFZ3Jg
+Successfully captured frame from: https://www.youtube.com/watch?v=Nq2wYlWFucg
+SSIM score: 1.0, MSE: 0.0
+Video QRS1uxFZ3Jg from Aaj Tak is a parallel feed (SSIM > 0.85)
+Comparing primary video Nq2wYlWFucg with video TosfFP9Ba6o
+Capturing frame from: https://www.youtube.com/watch?v=Nq2wYlWFucg (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=TosfFP9Ba6o (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=TosfFP9Ba6o
+Successfully captured frame from: https://www.youtube.com/watch?v=Nq2wYlWFucg
+SSIM score: 0.3502173419264332, MSE: 107.99748505015432
+Video TosfFP9Ba6o from Aaj Tak is not a parallel feed (SSIM <= 0.85)
+Comparing primary video 35jQnxNjA0I with video F-4ZAt7rmK4
+Capturing frame from: https://www.youtube.com/watch?v=35jQnxNjA0I (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=F-4ZAt7rmK4 (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=35jQnxNjA0I
+Successfully captured frame from: https://www.youtube.com/watch?v=F-4ZAt7rmK4
+SSIM score: 0.3765573269633587, MSE: 107.58845486111112
+Video F-4ZAt7rmK4 from ABPLIVE is not a parallel feed (SSIM <= 0.85)
+Comparing primary video nyd-xznCpJc with video 702Qd9jziPc
+Capturing frame from: https://www.youtube.com/watch?v=nyd-xznCpJc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=702Qd9jziPc (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=nyd-xznCpJc
+Successfully captured frame from: https://www.youtube.com/watch?v=702Qd9jziPc
+SSIM score: 0.2062006534572601, MSE: 102.69400933159723
+Video 702Qd9jziPc from ABP NEWS is not a parallel feed (SSIM <= 0.85)
+Comparing primary video nyd-xznCpJc with video Ii7azBH0g_o
+Capturing frame from: https://www.youtube.com/watch?v=nyd-xznCpJc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=Ii7azBH0g_o (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=nyd-xznCpJc
+Successfully captured frame from: https://www.youtube.com/watch?v=Ii7azBH0g_o
+SSIM score: 0.1985784844329456, MSE: 99.14164388020833
+Video Ii7azBH0g_o from ABP NEWS is not a parallel feed (SSIM <= 0.85)
+Comparing primary video nyd-xznCpJc with video LwwYTpakgXY
+Capturing frame from: https://www.youtube.com/watch?v=nyd-xznCpJc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=LwwYTpakgXY (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=nyd-xznCpJc
+Successfully captured frame from: https://www.youtube.com/watch?v=LwwYTpakgXY
+SSIM score: 0.2759114110392367, MSE: 92.09021809895833
+Video LwwYTpakgXY from ABP NEWS is not a parallel feed (SSIM <= 0.85)
+Comparing primary video nyd-xznCpJc with video I1cPbwuMc3U
+Capturing frame from: https://www.youtube.com/watch?v=nyd-xznCpJc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=I1cPbwuMc3U (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=nyd-xznCpJc
+Successfully captured frame from: https://www.youtube.com/watch?v=I1cPbwuMc3U
+SSIM score: 0.26202540067134383, MSE: 103.39876844618055
+Video I1cPbwuMc3U from ABP NEWS is not a parallel feed (SSIM <= 0.85)
+Comparing primary video nyd-xznCpJc with video 1LUBIy3TC8Q
+Capturing frame from: https://www.youtube.com/watch?v=nyd-xznCpJc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=1LUBIy3TC8Q (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=1LUBIy3TC8Q
+Successfully captured frame from: https://www.youtube.com/watch?v=nyd-xznCpJc
+SSIM score: 0.26958164167833304, MSE: 89.84916666666666
+Video 1LUBIy3TC8Q from ABP NEWS is not a parallel feed (SSIM <= 0.85)
+Comparing primary video nyd-xznCpJc with video vaelARf64-I
+Capturing frame from: https://www.youtube.com/watch?v=nyd-xznCpJc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=vaelARf64-I (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=vaelARf64-I
+Successfully captured frame from: https://www.youtube.com/watch?v=nyd-xznCpJc
+SSIM score: 0.2572013515089629, MSE: 98.85212022569445
+Video vaelARf64-I from ABP NEWS is not a parallel feed (SSIM <= 0.85)
+Comparing primary video nyd-xznCpJc with video bi2uFiOyCXc
+Capturing frame from: https://www.youtube.com/watch?v=nyd-xznCpJc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=bi2uFiOyCXc (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=nyd-xznCpJc
+Successfully captured frame from: https://www.youtube.com/watch?v=bi2uFiOyCXc
+SSIM score: 0.2299879184940453, MSE: 104.91881944444444
+Video bi2uFiOyCXc from ABP NEWS is not a parallel feed (SSIM <= 0.85)
+Comparing primary video nyd-xznCpJc with video sAiwrKgHt8w
+Capturing frame from: https://www.youtube.com/watch?v=nyd-xznCpJc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=sAiwrKgHt8w (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=sAiwrKgHt8w
+Successfully captured frame from: https://www.youtube.com/watch?v=nyd-xznCpJc
+SSIM score: 0.2783495832671257, MSE: 99.74473307291667
+Video sAiwrKgHt8w from ABP NEWS is not a parallel feed (SSIM <= 0.85)
+Comparing primary video nyd-xznCpJc with video 5MM4g19lw6A
+Capturing frame from: https://www.youtube.com/watch?v=nyd-xznCpJc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=5MM4g19lw6A (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=5MM4g19lw6A
+Successfully captured frame from: https://www.youtube.com/watch?v=nyd-xznCpJc
+SSIM score: 0.28898864464043117, MSE: 87.11408962673612
+Video 5MM4g19lw6A from ABP NEWS is not a parallel feed (SSIM <= 0.85)
+Comparing primary video nyd-xznCpJc with video qcc5TZs9ins
+Capturing frame from: https://www.youtube.com/watch?v=nyd-xznCpJc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=qcc5TZs9ins (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=nyd-xznCpJc
+Successfully captured frame from: https://www.youtube.com/watch?v=qcc5TZs9ins
+SSIM score: 0.5511546973155251, MSE: 58.33497504340278
+Video qcc5TZs9ins from ABP NEWS is not a parallel feed (SSIM <= 0.85)
+Comparing primary video nyd-xznCpJc with video 9duQp3tnnK4
+Capturing frame from: https://www.youtube.com/watch?v=nyd-xznCpJc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=9duQp3tnnK4 (Attempt 1/3)
+Could not get video info - OK: This live event has ended.
+Error capturing frame from https://www.youtube.com/watch?v=9duQp3tnnK4: 'best'
+Retrying in 10 seconds...
+Successfully captured frame from: https://www.youtube.com/watch?v=nyd-xznCpJc
+Capturing frame from: https://www.youtube.com/watch?v=9duQp3tnnK4 (Attempt 2/3)
+Could not get video info - OK: This live event has ended.
+Error capturing frame from https://www.youtube.com/watch?v=9duQp3tnnK4: 'best'
+Retrying in 10 seconds...
+Capturing frame from: https://www.youtube.com/watch?v=9duQp3tnnK4 (Attempt 3/3)
+Could not get video info - OK: This live event has ended.
+Error capturing frame from https://www.youtube.com/watch?v=9duQp3tnnK4: 'best'
+Failed to capture frame after 3 attempts.
+Skipping comparison for video 9duQp3tnnK4 from ABP NEWS due to frame capture failure.
+Comparing primary video nyd-xznCpJc with video TYFxmjNt4jk
+Capturing frame from: https://www.youtube.com/watch?v=nyd-xznCpJc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=TYFxmjNt4jk (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=nyd-xznCpJc
+Successfully captured frame from: https://www.youtube.com/watch?v=TYFxmjNt4jk
+SSIM score: 0.25253608395254934, MSE: 91.27168836805555
+Video TYFxmjNt4jk from ABP NEWS is not a parallel feed (SSIM <= 0.85)
+Comparing primary video nyd-xznCpJc with video ae1BtMdbt5A
+Capturing frame from: https://www.youtube.com/watch?v=nyd-xznCpJc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=ae1BtMdbt5A (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=ae1BtMdbt5A
+Successfully captured frame from: https://www.youtube.com/watch?v=nyd-xznCpJc
+SSIM score: 0.24868112162985945, MSE: 98.95773763020833
+Video ae1BtMdbt5A from ABP NEWS is not a parallel feed (SSIM <= 0.85)
+Comparing primary video nyd-xznCpJc with video M-qabGNBiok
+Capturing frame from: https://www.youtube.com/watch?v=nyd-xznCpJc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=M-qabGNBiok (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=nyd-xznCpJc
+Successfully captured frame from: https://www.youtube.com/watch?v=M-qabGNBiok
+SSIM score: 0.31188047078737363, MSE: 92.19187391493055
+Video M-qabGNBiok from ABP NEWS is not a parallel feed (SSIM <= 0.85)
+Comparing primary video TKS4TNLdTUc with video nBAQjx7Q3F8
+Capturing frame from: https://www.youtube.com/watch?v=TKS4TNLdTUc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=nBAQjx7Q3F8 (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=TKS4TNLdTUc
+Successfully captured frame from: https://www.youtube.com/watch?v=nBAQjx7Q3F8
+SSIM score: 0.3867768188154414, MSE: 103.452041015625
+Video nBAQjx7Q3F8 from IndiaTV is not a parallel feed (SSIM <= 0.85)
+Comparing primary video TKS4TNLdTUc with video DZEVFVdCQBk
+Capturing frame from: https://www.youtube.com/watch?v=TKS4TNLdTUc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=DZEVFVdCQBk (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=TKS4TNLdTUc
+Successfully captured frame from: https://www.youtube.com/watch?v=DZEVFVdCQBk
+SSIM score: 0.48504079735860206, MSE: 94.09347559799383
+Video DZEVFVdCQBk from IndiaTV is not a parallel feed (SSIM <= 0.85)
+Comparing primary video TKS4TNLdTUc with video GumEVx92ZJk
+Capturing frame from: https://www.youtube.com/watch?v=TKS4TNLdTUc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=GumEVx92ZJk (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=GumEVx92ZJk
+Successfully captured frame from: https://www.youtube.com/watch?v=TKS4TNLdTUc
+SSIM score: 0.3839219763094033, MSE: 93.02020399305556
+Video GumEVx92ZJk from IndiaTV is not a parallel feed (SSIM <= 0.85)
+Comparing primary video TKS4TNLdTUc with video 8WxAI7p_TEM
+Capturing frame from: https://www.youtube.com/watch?v=TKS4TNLdTUc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=8WxAI7p_TEM (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=8WxAI7p_TEM
+Successfully captured frame from: https://www.youtube.com/watch?v=TKS4TNLdTUc
+SSIM score: 0.9679261708577301, MSE: 11.389976369598765
+Video 8WxAI7p_TEM from IndiaTV is a parallel feed (SSIM > 0.85)
+Comparing primary video TKS4TNLdTUc with video YzKdOKoqK-0
+Capturing frame from: https://www.youtube.com/watch?v=TKS4TNLdTUc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=YzKdOKoqK-0 (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=YzKdOKoqK-0
+Successfully captured frame from: https://www.youtube.com/watch?v=TKS4TNLdTUc
+SSIM score: 0.429724735436244, MSE: 99.687744140625
+Video YzKdOKoqK-0 from IndiaTV is not a parallel feed (SSIM <= 0.85)
+Comparing primary video TKS4TNLdTUc with video yb25kN14QYc
+Capturing frame from: https://www.youtube.com/watch?v=TKS4TNLdTUc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=yb25kN14QYc (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=TKS4TNLdTUc
+Successfully captured frame from: https://www.youtube.com/watch?v=yb25kN14QYc
+SSIM score: 0.3249262207999303, MSE: 97.74265190972223
+Video yb25kN14QYc from IndiaTV is not a parallel feed (SSIM <= 0.85)
+Comparing primary video TKS4TNLdTUc with video d9QkyRtH9-s
+Capturing frame from: https://www.youtube.com/watch?v=TKS4TNLdTUc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=d9QkyRtH9-s (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=TKS4TNLdTUc
+Successfully captured frame from: https://www.youtube.com/watch?v=d9QkyRtH9-s
+SSIM score: 0.4915435757877196, MSE: 81.66237075617283
+Video d9QkyRtH9-s from IndiaTV is not a parallel feed (SSIM <= 0.85)
+Comparing primary video MN8p-Vrn6G0 with video KXZzQPaAPd4
+Capturing frame from: https://www.youtube.com/watch?v=MN8p-Vrn6G0 (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=KXZzQPaAPd4 (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=KXZzQPaAPd4
+Successfully captured frame from: https://www.youtube.com/watch?v=MN8p-Vrn6G0
+SSIM score: 0.9890684837810916, MSE: 2.8096566358024693
+Video KXZzQPaAPd4 from NDTV India is a parallel feed (SSIM > 0.85)
+Comparing primary video MN8p-Vrn6G0 with video y4VQylKxREc
+Capturing frame from: https://www.youtube.com/watch?v=MN8p-Vrn6G0 (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=y4VQylKxREc (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=MN8p-Vrn6G0
+Successfully captured frame from: https://www.youtube.com/watch?v=y4VQylKxREc
+SSIM score: 0.4833285245918666, MSE: 92.36041811342592
+Video y4VQylKxREc from NDTV India is not a parallel feed (SSIM <= 0.85)
+Comparing primary video MN8p-Vrn6G0 with video CksS6nYGSYU
+Capturing frame from: https://www.youtube.com/watch?v=MN8p-Vrn6G0 (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=CksS6nYGSYU (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=CksS6nYGSYU
+Successfully captured frame from: https://www.youtube.com/watch?v=MN8p-Vrn6G0
+SSIM score: 0.4243597612259625, MSE: 104.6255825617284
+Video CksS6nYGSYU from NDTV India is not a parallel feed (SSIM <= 0.85)
+Comparing primary video MN8p-Vrn6G0 with video -fQyqVqi7GI
+Capturing frame from: https://www.youtube.com/watch?v=MN8p-Vrn6G0 (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=-fQyqVqi7GI (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=-fQyqVqi7GI
+Successfully captured frame from: https://www.youtube.com/watch?v=MN8p-Vrn6G0
+SSIM score: 1.0, MSE: 0.0
+Video -fQyqVqi7GI from NDTV India is a parallel feed (SSIM > 0.85)
+Comparing primary video HBorWH77wPs with video AEWITAY1bgA
+Capturing frame from: https://www.youtube.com/watch?v=HBorWH77wPs (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=AEWITAY1bgA (Attempt 1/3)
+Could not get video info - OK: This live event has ended.
+Error capturing frame from https://www.youtube.com/watch?v=AEWITAY1bgA: 'best'
+Retrying in 10 seconds...
+Successfully captured frame from: https://www.youtube.com/watch?v=HBorWH77wPs
+Capturing frame from: https://www.youtube.com/watch?v=AEWITAY1bgA (Attempt 2/3)
+Could not get video info - OK: This live event has ended.
+Error capturing frame from https://www.youtube.com/watch?v=AEWITAY1bgA: 'best'
+Retrying in 10 seconds...
+Capturing frame from: https://www.youtube.com/watch?v=AEWITAY1bgA (Attempt 3/3)
+Could not get video info - OK: This live event has ended.
+Error capturing frame from https://www.youtube.com/watch?v=AEWITAY1bgA: 'best'
+Failed to capture frame after 3 attempts.
+Skipping comparison for video AEWITAY1bgA from News18 India due to frame capture failure.
+Comparing primary video HBorWH77wPs with video 5tq7HTaKKrQ
+Capturing frame from: https://www.youtube.com/watch?v=HBorWH77wPs (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=5tq7HTaKKrQ (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=5tq7HTaKKrQ
+Successfully captured frame from: https://www.youtube.com/watch?v=HBorWH77wPs
+SSIM score: 0.3620224885230942, MSE: 98.80434799382716
+Video 5tq7HTaKKrQ from News18 India is not a parallel feed (SSIM <= 0.85)
+Comparing primary video HBorWH77wPs with video CA6jMMPkLmw
+Capturing frame from: https://www.youtube.com/watch?v=HBorWH77wPs (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=CA6jMMPkLmw (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=CA6jMMPkLmw
+Successfully captured frame from: https://www.youtube.com/watch?v=HBorWH77wPs
+SSIM score: 0.2841019841796597, MSE: 103.48698398919753
+Video CA6jMMPkLmw from News18 India is not a parallel feed (SSIM <= 0.85)
+Comparing primary video HBorWH77wPs with video ZzGNTo-zoMA
+Capturing frame from: https://www.youtube.com/watch?v=HBorWH77wPs (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=ZzGNTo-zoMA (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=ZzGNTo-zoMA
+Successfully captured frame from: https://www.youtube.com/watch?v=HBorWH77wPs
+SSIM score: 0.5024126733087728, MSE: 89.0846981095679
+Video ZzGNTo-zoMA from News18 India is not a parallel feed (SSIM <= 0.85)
+Comparing primary video HBorWH77wPs with video gnkuuRcX3WU
+Capturing frame from: https://www.youtube.com/watch?v=HBorWH77wPs (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=gnkuuRcX3WU (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=HBorWH77wPs
+Successfully captured frame from: https://www.youtube.com/watch?v=gnkuuRcX3WU
+SSIM score: 0.4067094132818575, MSE: 71.50747299382716
+Video gnkuuRcX3WU from News18 India is not a parallel feed (SSIM <= 0.85)
+Comparing primary video HBorWH77wPs with video uEy12NNJbG4
+Capturing frame from: https://www.youtube.com/watch?v=HBorWH77wPs (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=uEy12NNJbG4 (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=HBorWH77wPs
+Successfully captured frame from: https://www.youtube.com/watch?v=uEy12NNJbG4
+SSIM score: 0.32909659990049445, MSE: 97.80956934799383
+Video uEy12NNJbG4 from News18 India is not a parallel feed (SSIM <= 0.85)
+Comparing primary video HBorWH77wPs with video kHZ_TcDUdjE
+Capturing frame from: https://www.youtube.com/watch?v=HBorWH77wPs (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=kHZ_TcDUdjE (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=kHZ_TcDUdjE
+Successfully captured frame from: https://www.youtube.com/watch?v=HBorWH77wPs
+SSIM score: 0.4712886946195047, MSE: 106.59712962962963
+Video kHZ_TcDUdjE from News18 India is not a parallel feed (SSIM <= 0.85)
+Comparing primary video HBorWH77wPs with video FdArVZEqy0M
+Capturing frame from: https://www.youtube.com/watch?v=HBorWH77wPs (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=FdArVZEqy0M (Attempt 1/3)
+Could not get video info - OK: This live event has ended.
+Error capturing frame from https://www.youtube.com/watch?v=FdArVZEqy0M: 'best'
+Retrying in 10 seconds...
+Successfully captured frame from: https://www.youtube.com/watch?v=HBorWH77wPs
+Capturing frame from: https://www.youtube.com/watch?v=FdArVZEqy0M (Attempt 2/3)
+Could not get video info - OK: This live event has ended.
+Error capturing frame from https://www.youtube.com/watch?v=FdArVZEqy0M: 'best'
+Retrying in 10 seconds...
+Capturing frame from: https://www.youtube.com/watch?v=FdArVZEqy0M (Attempt 3/3)
+Could not get video info - OK: This live event has ended.
+Error capturing frame from https://www.youtube.com/watch?v=FdArVZEqy0M: 'best'
+Failed to capture frame after 3 attempts.
+Skipping comparison for video FdArVZEqy0M from News18 India due to frame capture failure.
+Comparing primary video HBorWH77wPs with video iJdZeUDG6VM
+Capturing frame from: https://www.youtube.com/watch?v=HBorWH77wPs (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=iJdZeUDG6VM (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=iJdZeUDG6VM
+Successfully captured frame from: https://www.youtube.com/watch?v=HBorWH77wPs
+SSIM score: 0.4235961033777358, MSE: 93.32788676697531
+Video iJdZeUDG6VM from News18 India is not a parallel feed (SSIM <= 0.85)
+Comparing primary video HBorWH77wPs with video q-4ZRqPZWXs
+Capturing frame from: https://www.youtube.com/watch?v=HBorWH77wPs (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=q-4ZRqPZWXs (Attempt 1/3)
+Could not get video info - OK: This live event has ended.
+Error capturing frame from https://www.youtube.com/watch?v=q-4ZRqPZWXs: 'best'
+Retrying in 10 seconds...
+Successfully captured frame from: https://www.youtube.com/watch?v=HBorWH77wPs
+Capturing frame from: https://www.youtube.com/watch?v=q-4ZRqPZWXs (Attempt 2/3)
+Could not get video info - OK: This live event has ended.
+Error capturing frame from https://www.youtube.com/watch?v=q-4ZRqPZWXs: 'best'
+Retrying in 10 seconds...
+Capturing frame from: https://www.youtube.com/watch?v=q-4ZRqPZWXs (Attempt 3/3)
+Could not get video info - OK: This live event has ended.
+Error capturing frame from https://www.youtube.com/watch?v=q-4ZRqPZWXs: 'best'
+Failed to capture frame after 3 attempts.
+Skipping comparison for video q-4ZRqPZWXs from News18 India due to frame capture failure.
+Comparing primary video HBorWH77wPs with video IkDSqjtefGw
+Capturing frame from: https://www.youtube.com/watch?v=HBorWH77wPs (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=IkDSqjtefGw (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=HBorWH77wPs
+Successfully captured frame from: https://www.youtube.com/watch?v=IkDSqjtefGw
+SSIM score: 0.26231172428481975, MSE: 102.58665219907408
+Video IkDSqjtefGw from News18 India is not a parallel feed (SSIM <= 0.85)
+Comparing primary video HBorWH77wPs with video _hRt50McZCw
+Capturing frame from: https://www.youtube.com/watch?v=HBorWH77wPs (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=_hRt50McZCw (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=_hRt50McZCw
+Successfully captured frame from: https://www.youtube.com/watch?v=HBorWH77wPs
+SSIM score: 0.40673727968376555, MSE: 93.72956838348766
+Video _hRt50McZCw from News18 India is not a parallel feed (SSIM <= 0.85)
+Comparing primary video HBorWH77wPs with video ZYzEjl08SaA
+Capturing frame from: https://www.youtube.com/watch?v=HBorWH77wPs (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=ZYzEjl08SaA (Attempt 1/3)
+Could not get video info - OK: This live event has ended.
+Error capturing frame from https://www.youtube.com/watch?v=ZYzEjl08SaA: 'best'
+Retrying in 10 seconds...
+Successfully captured frame from: https://www.youtube.com/watch?v=HBorWH77wPs
+Capturing frame from: https://www.youtube.com/watch?v=ZYzEjl08SaA (Attempt 2/3)
+Could not get video info - OK: This live event has ended.
+Error capturing frame from https://www.youtube.com/watch?v=ZYzEjl08SaA: 'best'
+Retrying in 10 seconds...
+Capturing frame from: https://www.youtube.com/watch?v=ZYzEjl08SaA (Attempt 3/3)
+Could not get video info - OK: This live event has ended.
+Error capturing frame from https://www.youtube.com/watch?v=ZYzEjl08SaA: 'best'
+Failed to capture frame after 3 attempts.
+Skipping comparison for video ZYzEjl08SaA from News18 India due to frame capture failure.
+Comparing primary video HBorWH77wPs with video uSV_k_ElgdI
+Capturing frame from: https://www.youtube.com/watch?v=HBorWH77wPs (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=uSV_k_ElgdI (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=uSV_k_ElgdI
+Successfully captured frame from: https://www.youtube.com/watch?v=HBorWH77wPs
+SSIM score: 0.4394187156163342, MSE: 89.95339940200617
+Video uSV_k_ElgdI from News18 India is not a parallel feed (SSIM <= 0.85)
+Comparing primary video HBorWH77wPs with video eVwzlWDNi7I
+Capturing frame from: https://www.youtube.com/watch?v=HBorWH77wPs (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=eVwzlWDNi7I (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=eVwzlWDNi7I
+Successfully captured frame from: https://www.youtube.com/watch?v=HBorWH77wPs
+SSIM score: 0.3465931160339647, MSE: 103.53249807098766
+Video eVwzlWDNi7I from News18 India is not a parallel feed (SSIM <= 0.85)
+Comparing primary video HBorWH77wPs with video 9sxl-52PmQ4
+Capturing frame from: https://www.youtube.com/watch?v=HBorWH77wPs (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=9sxl-52PmQ4 (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=9sxl-52PmQ4
+Successfully captured frame from: https://www.youtube.com/watch?v=HBorWH77wPs
+SSIM score: 0.29492833862885537, MSE: 106.73657552083333
+Video 9sxl-52PmQ4 from News18 India is not a parallel feed (SSIM <= 0.85)
+Comparing primary video HBorWH77wPs with video Cp5sPi3WPxo
+Capturing frame from: https://www.youtube.com/watch?v=HBorWH77wPs (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=Cp5sPi3WPxo (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=HBorWH77wPs
+Successfully captured frame from: https://www.youtube.com/watch?v=Cp5sPi3WPxo
+SSIM score: 0.42207421818734403, MSE: 96.60377893518519
+Video Cp5sPi3WPxo from News18 India is not a parallel feed (SSIM <= 0.85)
+Comparing primary video cEjuoCwX9jU with video H-XMA6les2g
+Capturing frame from: https://www.youtube.com/watch?v=cEjuoCwX9jU (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=H-XMA6les2g (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=H-XMA6les2g
+Successfully captured frame from: https://www.youtube.com/watch?v=cEjuoCwX9jU
+SSIM score: 0.3029156459244345, MSE: 104.55035047743056
+Video H-XMA6les2g from News Nation is not a parallel feed (SSIM <= 0.85)
+Comparing primary video cEjuoCwX9jU with video D_rFpnbSW_s
+Capturing frame from: https://www.youtube.com/watch?v=cEjuoCwX9jU (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=D_rFpnbSW_s (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=D_rFpnbSW_s
+Successfully captured frame from: https://www.youtube.com/watch?v=cEjuoCwX9jU
+SSIM score: 0.33263552642013466, MSE: 93.21884223090278
+Video D_rFpnbSW_s from News Nation is not a parallel feed (SSIM <= 0.85)
+Comparing primary video cEjuoCwX9jU with video 8brv0Yb1Scs
+Capturing frame from: https://www.youtube.com/watch?v=cEjuoCwX9jU (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=8brv0Yb1Scs (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=cEjuoCwX9jU
+Successfully captured frame from: https://www.youtube.com/watch?v=8brv0Yb1Scs
+SSIM score: 0.32774624246546324, MSE: 106.32745551215278
+Video 8brv0Yb1Scs from News Nation is not a parallel feed (SSIM <= 0.85)
+Comparing primary video cEjuoCwX9jU with video pMoT5IHpIFY
+Capturing frame from: https://www.youtube.com/watch?v=cEjuoCwX9jU (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=pMoT5IHpIFY (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=pMoT5IHpIFY
+Successfully captured frame from: https://www.youtube.com/watch?v=cEjuoCwX9jU
+SSIM score: 0.3368096516499163, MSE: 88.1085232204861
+Video pMoT5IHpIFY from News Nation is not a parallel feed (SSIM <= 0.85)
+Comparing primary video cEjuoCwX9jU with video TpZTwwQgVZw
+Capturing frame from: https://www.youtube.com/watch?v=cEjuoCwX9jU (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=TpZTwwQgVZw (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=TpZTwwQgVZw
+Successfully captured frame from: https://www.youtube.com/watch?v=cEjuoCwX9jU
+SSIM score: 0.33145669507300773, MSE: 99.595361328125
+Video TpZTwwQgVZw from News Nation is not a parallel feed (SSIM <= 0.85)
+Comparing primary video cEjuoCwX9jU with video kb2TyUTqCUM
+Capturing frame from: https://www.youtube.com/watch?v=cEjuoCwX9jU (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=kb2TyUTqCUM (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=kb2TyUTqCUM
+Successfully captured frame from: https://www.youtube.com/watch?v=cEjuoCwX9jU
+SSIM score: 0.2995677719586616, MSE: 103.81420355902777
+Video kb2TyUTqCUM from News Nation is not a parallel feed (SSIM <= 0.85)
+Comparing primary video cEjuoCwX9jU with video 6P5baQUH8Gw
+Capturing frame from: https://www.youtube.com/watch?v=cEjuoCwX9jU (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=6P5baQUH8Gw (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=6P5baQUH8Gw
+Successfully captured frame from: https://www.youtube.com/watch?v=cEjuoCwX9jU
+SSIM score: 0.29416916240776275, MSE: 105.70265190972222
+Video 6P5baQUH8Gw from News Nation is not a parallel feed (SSIM <= 0.85)
+Comparing primary video cEjuoCwX9jU with video P4QxK9FCTTA
+Capturing frame from: https://www.youtube.com/watch?v=cEjuoCwX9jU (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=P4QxK9FCTTA (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=P4QxK9FCTTA
+Successfully captured frame from: https://www.youtube.com/watch?v=cEjuoCwX9jU
+SSIM score: 0.23870511359002625, MSE: 105.46674370659723
+Video P4QxK9FCTTA from News Nation is not a parallel feed (SSIM <= 0.85)
+Comparing primary video cEjuoCwX9jU with video No54IfiXzvk
+Capturing frame from: https://www.youtube.com/watch?v=cEjuoCwX9jU (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=No54IfiXzvk (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=No54IfiXzvk
+Successfully captured frame from: https://www.youtube.com/watch?v=cEjuoCwX9jU
+SSIM score: 0.32147769461445946, MSE: 103.52826497395833
+Video No54IfiXzvk from News Nation is not a parallel feed (SSIM <= 0.85)
+Comparing primary video cEjuoCwX9jU with video MQrWibf9w7k
+Capturing frame from: https://www.youtube.com/watch?v=cEjuoCwX9jU (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=MQrWibf9w7k (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=MQrWibf9w7k
+Successfully captured frame from: https://www.youtube.com/watch?v=cEjuoCwX9jU
+SSIM score: 0.3702311925653579, MSE: 103.44523328993056
+Video MQrWibf9w7k from News Nation is not a parallel feed (SSIM <= 0.85)
+Comparing primary video cEjuoCwX9jU with video h6aL8GmBInk
+Capturing frame from: https://www.youtube.com/watch?v=cEjuoCwX9jU (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=h6aL8GmBInk (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=h6aL8GmBInk
+Successfully captured frame from: https://www.youtube.com/watch?v=cEjuoCwX9jU
+SSIM score: 0.2513633256569313, MSE: 99.96432508680556
+Video h6aL8GmBInk from News Nation is not a parallel feed (SSIM <= 0.85)
+Comparing primary video cEjuoCwX9jU with video CDY3jYqQuAU
+Capturing frame from: https://www.youtube.com/watch?v=cEjuoCwX9jU (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=CDY3jYqQuAU (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=CDY3jYqQuAU
+Successfully captured frame from: https://www.youtube.com/watch?v=cEjuoCwX9jU
+SSIM score: 0.340996130537129, MSE: 105.295341796875
+Video CDY3jYqQuAU from News Nation is not a parallel feed (SSIM <= 0.85)
+Comparing primary video cEjuoCwX9jU with video JsIkA2NtEgM
+Capturing frame from: https://www.youtube.com/watch?v=cEjuoCwX9jU (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=JsIkA2NtEgM (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=cEjuoCwX9jU
+Successfully captured frame from: https://www.youtube.com/watch?v=JsIkA2NtEgM
+SSIM score: 0.22060289392483223, MSE: 106.09444552951389
+Video JsIkA2NtEgM from News Nation is not a parallel feed (SSIM <= 0.85)
+Comparing primary video EgEnviEZcOQ with video akQe6gtHn2Q
+Capturing frame from: https://www.youtube.com/watch?v=EgEnviEZcOQ (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=akQe6gtHn2Q (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=akQe6gtHn2Q
+Successfully captured frame from: https://www.youtube.com/watch?v=EgEnviEZcOQ
+SSIM score: 0.2944994740073114, MSE: 104.750625
+Video akQe6gtHn2Q from TIMES NOW Navbharat is not a parallel feed (SSIM <= 0.85)
+Comparing primary video EgEnviEZcOQ with video 3-z974Ri-mc
+Capturing frame from: https://www.youtube.com/watch?v=EgEnviEZcOQ (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=3-z974Ri-mc (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=EgEnviEZcOQ
+Successfully captured frame from: https://www.youtube.com/watch?v=3-z974Ri-mc
+SSIM score: 0.2948309437407128, MSE: 101.27027452256945
+Video 3-z974Ri-mc from TIMES NOW Navbharat is not a parallel feed (SSIM <= 0.85)
+Comparing primary video EgEnviEZcOQ with video 12Jj9wLGMeM
+Capturing frame from: https://www.youtube.com/watch?v=EgEnviEZcOQ (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=12Jj9wLGMeM (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=12Jj9wLGMeM
+Successfully captured frame from: https://www.youtube.com/watch?v=EgEnviEZcOQ
+SSIM score: 0.3808414331045474, MSE: 104.1564525462963
+Video 12Jj9wLGMeM from TIMES NOW Navbharat is not a parallel feed (SSIM <= 0.85)
+Comparing primary video EgEnviEZcOQ with video hdVG9MnuSP0
+Capturing frame from: https://www.youtube.com/watch?v=EgEnviEZcOQ (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=hdVG9MnuSP0 (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=hdVG9MnuSP0
+Successfully captured frame from: https://www.youtube.com/watch?v=EgEnviEZcOQ
+SSIM score: 0.40945007383194165, MSE: 91.26252604166666
+Video hdVG9MnuSP0 from TIMES NOW Navbharat is not a parallel feed (SSIM <= 0.85)
+Comparing primary video EgEnviEZcOQ with video D-sf_AKd2BI
+Capturing frame from: https://www.youtube.com/watch?v=EgEnviEZcOQ (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=D-sf_AKd2BI (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=EgEnviEZcOQ
+Successfully captured frame from: https://www.youtube.com/watch?v=D-sf_AKd2BI
+SSIM score: 0.4488035201592366, MSE: 93.39287422839506
+Video D-sf_AKd2BI from TIMES NOW Navbharat is not a parallel feed (SSIM <= 0.85)
+Comparing primary video EgEnviEZcOQ with video vawSzkxqbdA
+Capturing frame from: https://www.youtube.com/watch?v=EgEnviEZcOQ (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=vawSzkxqbdA (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=vawSzkxqbdA
+Successfully captured frame from: https://www.youtube.com/watch?v=EgEnviEZcOQ
+SSIM score: 0.34372763130552175, MSE: 101.85613606770833
+Video vawSzkxqbdA from TIMES NOW Navbharat is not a parallel feed (SSIM <= 0.85)
+Comparing primary video rMy5NNRmnFI with video 1ZyyuDhPJ4g
+Capturing frame from: https://www.youtube.com/watch?v=rMy5NNRmnFI (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=1ZyyuDhPJ4g (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=rMy5NNRmnFI
+Successfully captured frame from: https://www.youtube.com/watch?v=1ZyyuDhPJ4g
+SSIM score: 0.13874970656802993, MSE: 106.40033203125
+Video 1ZyyuDhPJ4g from TV9 Bharatvarsh is not a parallel feed (SSIM <= 0.85)
+Comparing primary video rMy5NNRmnFI with video oMkaTNu7i8A
+Capturing frame from: https://www.youtube.com/watch?v=rMy5NNRmnFI (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=oMkaTNu7i8A (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=oMkaTNu7i8A
+Successfully captured frame from: https://www.youtube.com/watch?v=rMy5NNRmnFI
+SSIM score: 0.2585211804026096, MSE: 109.54463758680555
+Video oMkaTNu7i8A from TV9 Bharatvarsh is not a parallel feed (SSIM <= 0.85)
+Comparing primary video rMy5NNRmnFI with video 6QX8JnNveKY
+Capturing frame from: https://www.youtube.com/watch?v=rMy5NNRmnFI (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=6QX8JnNveKY (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=rMy5NNRmnFI
+Successfully captured frame from: https://www.youtube.com/watch?v=6QX8JnNveKY
+SSIM score: 0.3270960738634563, MSE: 108.13170283564814
+Video 6QX8JnNveKY from TV9 Bharatvarsh is not a parallel feed (SSIM <= 0.85)
+Comparing primary video rMy5NNRmnFI with video kuB7v-yvz7w
+Capturing frame from: https://www.youtube.com/watch?v=rMy5NNRmnFI (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=kuB7v-yvz7w (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=rMy5NNRmnFI
+Successfully captured frame from: https://www.youtube.com/watch?v=kuB7v-yvz7w
+SSIM score: 0.2160317982775551, MSE: 104.05314127604167
+Video kuB7v-yvz7w from TV9 Bharatvarsh is not a parallel feed (SSIM <= 0.85)
+Comparing primary video rMy5NNRmnFI with video t5rX2IXs33w
+Capturing frame from: https://www.youtube.com/watch?v=rMy5NNRmnFI (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=t5rX2IXs33w (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=rMy5NNRmnFI
+Successfully captured frame from: https://www.youtube.com/watch?v=t5rX2IXs33w
+SSIM score: 0.2875836721316591, MSE: 104.9799924045139
+Video t5rX2IXs33w from TV9 Bharatvarsh is not a parallel feed (SSIM <= 0.85)
+Comparing primary video rMy5NNRmnFI with video G8LgWx8HM3Y
+Capturing frame from: https://www.youtube.com/watch?v=rMy5NNRmnFI (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=G8LgWx8HM3Y (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=G8LgWx8HM3Y
+Successfully captured frame from: https://www.youtube.com/watch?v=rMy5NNRmnFI
+SSIM score: 0.2926204084271761, MSE: 106.13312934027778
+Video G8LgWx8HM3Y from TV9 Bharatvarsh is not a parallel feed (SSIM <= 0.85)
+Comparing primary video rMy5NNRmnFI with video joafsxyrKPI
+Capturing frame from: https://www.youtube.com/watch?v=rMy5NNRmnFI (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=joafsxyrKPI (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=joafsxyrKPI
+Successfully captured frame from: https://www.youtube.com/watch?v=rMy5NNRmnFI
+SSIM score: 0.24687082672103075, MSE: 105.81352756076389
+Video joafsxyrKPI from TV9 Bharatvarsh is not a parallel feed (SSIM <= 0.85)
+Comparing primary video rMy5NNRmnFI with video UGglAOLjqbo
+Capturing frame from: https://www.youtube.com/watch?v=rMy5NNRmnFI (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=UGglAOLjqbo (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=UGglAOLjqbo
+Successfully captured frame from: https://www.youtube.com/watch?v=rMy5NNRmnFI
+SSIM score: 0.2281109228363876, MSE: 108.43507269965278
+Video UGglAOLjqbo from TV9 Bharatvarsh is not a parallel feed (SSIM <= 0.85)
+Comparing primary video ZwD3-hUQ3rk with video 4jgUxGRUsOE
+Capturing frame from: https://www.youtube.com/watch?v=ZwD3-hUQ3rk (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=4jgUxGRUsOE (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=4jgUxGRUsOE
+Successfully captured frame from: https://www.youtube.com/watch?v=ZwD3-hUQ3rk
+SSIM score: 0.3737237526546933, MSE: 106.09722366898148
+Video 4jgUxGRUsOE from Republic Bharat is not a parallel feed (SSIM <= 0.85)
+Comparing primary video ZwD3-hUQ3rk with video tERI07oRr-U
+Capturing frame from: https://www.youtube.com/watch?v=ZwD3-hUQ3rk (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=tERI07oRr-U (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=ZwD3-hUQ3rk
+Successfully captured frame from: https://www.youtube.com/watch?v=tERI07oRr-U
+SSIM score: 0.4369570357472104, MSE: 90.95277970679012
+Video tERI07oRr-U from Republic Bharat is not a parallel feed (SSIM <= 0.85)
+Comparing primary video ZwD3-hUQ3rk with video Z6NhxuUPGTM
+Capturing frame from: https://www.youtube.com/watch?v=ZwD3-hUQ3rk (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=Z6NhxuUPGTM (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=ZwD3-hUQ3rk
+Successfully captured frame from: https://www.youtube.com/watch?v=Z6NhxuUPGTM
+SSIM score: 0.29349686913308165, MSE: 90.97369683159722
+Video Z6NhxuUPGTM from Republic Bharat is not a parallel feed (SSIM <= 0.85)
+Comparing primary video ZwD3-hUQ3rk with video SSxjnlGN-4I
+Capturing frame from: https://www.youtube.com/watch?v=ZwD3-hUQ3rk (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=SSxjnlGN-4I (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=ZwD3-hUQ3rk
+Successfully captured frame from: https://www.youtube.com/watch?v=SSxjnlGN-4I
+SSIM score: 0.3203457090354537, MSE: 97.03212890625
+Video SSxjnlGN-4I from Republic Bharat is not a parallel feed (SSIM <= 0.85)
+Comparing primary video ZwD3-hUQ3rk with video EIHd4DZPVyU
+Capturing frame from: https://www.youtube.com/watch?v=ZwD3-hUQ3rk (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=EIHd4DZPVyU (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=EIHd4DZPVyU
+Successfully captured frame from: https://www.youtube.com/watch?v=ZwD3-hUQ3rk
+SSIM score: 0.3199946380193219, MSE: 91.55513671875
+Video EIHd4DZPVyU from Republic Bharat is not a parallel feed (SSIM <= 0.85)
+Comparing primary video ZwD3-hUQ3rk with video 02PasK-VrMM
+Capturing frame from: https://www.youtube.com/watch?v=ZwD3-hUQ3rk (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=02PasK-VrMM (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=ZwD3-hUQ3rk
+Successfully captured frame from: https://www.youtube.com/watch?v=02PasK-VrMM
+SSIM score: 0.3974094724141562, MSE: 98.54989920910494
+Video 02PasK-VrMM from Republic Bharat is not a parallel feed (SSIM <= 0.85)
+Comparing primary video ZwD3-hUQ3rk with video p_gcfGd2dZA
+Capturing frame from: https://www.youtube.com/watch?v=ZwD3-hUQ3rk (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=p_gcfGd2dZA (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=p_gcfGd2dZA
+Successfully captured frame from: https://www.youtube.com/watch?v=ZwD3-hUQ3rk
+SSIM score: 0.3209630490812583, MSE: 102.64232638888889
+Video p_gcfGd2dZA from Republic Bharat is not a parallel feed (SSIM <= 0.85)
+Comparing primary video ZwD3-hUQ3rk with video BVhoc0-RBvE
+Capturing frame from: https://www.youtube.com/watch?v=ZwD3-hUQ3rk (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=BVhoc0-RBvE (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=ZwD3-hUQ3rk
+Successfully captured frame from: https://www.youtube.com/watch?v=BVhoc0-RBvE
+SSIM score: 0.3243452014766188, MSE: 91.29225043402778
+Video BVhoc0-RBvE from Republic Bharat is not a parallel feed (SSIM <= 0.85)
+Comparing primary video ZwD3-hUQ3rk with video jD5tGyI82Q0
+Capturing frame from: https://www.youtube.com/watch?v=ZwD3-hUQ3rk (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=jD5tGyI82Q0 (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=jD5tGyI82Q0
+Successfully captured frame from: https://www.youtube.com/watch?v=ZwD3-hUQ3rk
+SSIM score: 0.3870790937248002, MSE: 96.14803771219135
+Video jD5tGyI82Q0 from Republic Bharat is not a parallel feed (SSIM <= 0.85)
+Comparing primary video ZwD3-hUQ3rk with video t3ohKtFwrxA
+Capturing frame from: https://www.youtube.com/watch?v=ZwD3-hUQ3rk (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=t3ohKtFwrxA (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=ZwD3-hUQ3rk
+Successfully captured frame from: https://www.youtube.com/watch?v=t3ohKtFwrxA
+SSIM score: 0.32863310602283946, MSE: 104.48426866319444
+Video t3ohKtFwrxA from Republic Bharat is not a parallel feed (SSIM <= 0.85)
+Comparing primary video ZwD3-hUQ3rk with video M-q2kx2oTF8
+Capturing frame from: https://www.youtube.com/watch?v=ZwD3-hUQ3rk (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=M-q2kx2oTF8 (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=M-q2kx2oTF8
+Successfully captured frame from: https://www.youtube.com/watch?v=ZwD3-hUQ3rk
+SSIM score: 0.3779975931633165, MSE: 93.297177734375
+Video M-q2kx2oTF8 from Republic Bharat is not a parallel feed (SSIM <= 0.85)
+Comparing primary video ZwD3-hUQ3rk with video LGGbVgKpSU0
+Capturing frame from: https://www.youtube.com/watch?v=ZwD3-hUQ3rk (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=LGGbVgKpSU0 (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=LGGbVgKpSU0
+Successfully captured frame from: https://www.youtube.com/watch?v=ZwD3-hUQ3rk
+SSIM score: 0.42033077740613134, MSE: 87.968681640625
+Video LGGbVgKpSU0 from Republic Bharat is not a parallel feed (SSIM <= 0.85)
+Comparing primary video ZwD3-hUQ3rk with video GGeWLMsW1tU
+Capturing frame from: https://www.youtube.com/watch?v=ZwD3-hUQ3rk (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=GGeWLMsW1tU (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=GGeWLMsW1tU
+Successfully captured frame from: https://www.youtube.com/watch?v=ZwD3-hUQ3rk
+SSIM score: 0.391404329212546, MSE: 88.78785264756945
+Video GGeWLMsW1tU from Republic Bharat is not a parallel feed (SSIM <= 0.85)
+Comparing primary video TPcmrPrygDc with video YSeRpXPEslw
+Capturing frame from: https://www.youtube.com/watch?v=TPcmrPrygDc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=YSeRpXPEslw (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=YSeRpXPEslw
+Successfully captured frame from: https://www.youtube.com/watch?v=TPcmrPrygDc
+SSIM score: 0.2716715157622615, MSE: 98.04852105034722
+Video YSeRpXPEslw from Zee News is not a parallel feed (SSIM <= 0.85)
+Comparing primary video TPcmrPrygDc with video JfxnVTCjS8c
+Capturing frame from: https://www.youtube.com/watch?v=TPcmrPrygDc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=JfxnVTCjS8c (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=JfxnVTCjS8c
+Successfully captured frame from: https://www.youtube.com/watch?v=TPcmrPrygDc
+SSIM score: 0.34750099599832224, MSE: 86.23410047743056
+Video JfxnVTCjS8c from Zee News is not a parallel feed (SSIM <= 0.85)
+Comparing primary video TPcmrPrygDc with video frXJvqqJC38
+Capturing frame from: https://www.youtube.com/watch?v=TPcmrPrygDc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=frXJvqqJC38 (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=frXJvqqJC38
+Successfully captured frame from: https://www.youtube.com/watch?v=TPcmrPrygDc
+SSIM score: 0.2226929114330868, MSE: 102.56107638888889
+Video frXJvqqJC38 from Zee News is not a parallel feed (SSIM <= 0.85)
+Comparing primary video TPcmrPrygDc with video Tg81TxZLitM
+Capturing frame from: https://www.youtube.com/watch?v=TPcmrPrygDc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=Tg81TxZLitM (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=Tg81TxZLitM
+Successfully captured frame from: https://www.youtube.com/watch?v=TPcmrPrygDc
+SSIM score: 0.2729556602650069, MSE: 99.0479763454861
+Video Tg81TxZLitM from Zee News is not a parallel feed (SSIM <= 0.85)
+Comparing primary video TPcmrPrygDc with video bQ7eI2OCBSM
+Capturing frame from: https://www.youtube.com/watch?v=TPcmrPrygDc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=bQ7eI2OCBSM (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=TPcmrPrygDc
+Successfully captured frame from: https://www.youtube.com/watch?v=bQ7eI2OCBSM
+SSIM score: 0.2103639284386409, MSE: 105.31068142361111
+Video bQ7eI2OCBSM from Zee News is not a parallel feed (SSIM <= 0.85)
+Comparing primary video TPcmrPrygDc with video UJajekXkAuA
+Capturing frame from: https://www.youtube.com/watch?v=TPcmrPrygDc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=UJajekXkAuA (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=UJajekXkAuA
+Successfully captured frame from: https://www.youtube.com/watch?v=TPcmrPrygDc
+SSIM score: 0.2750389953313715, MSE: 93.39830620659723
+Video UJajekXkAuA from Zee News is not a parallel feed (SSIM <= 0.85)
+Comparing primary video TPcmrPrygDc with video YGE_3mSN_iA
+Capturing frame from: https://www.youtube.com/watch?v=TPcmrPrygDc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=YGE_3mSN_iA (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=YGE_3mSN_iA
+Successfully captured frame from: https://www.youtube.com/watch?v=TPcmrPrygDc
+SSIM score: 0.5213143425997729, MSE: 58.31291015625
+Video YGE_3mSN_iA from Zee News is not a parallel feed (SSIM <= 0.85)
+Comparing primary video TPcmrPrygDc with video Xri7_l5l1RQ
+Capturing frame from: https://www.youtube.com/watch?v=TPcmrPrygDc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=Xri7_l5l1RQ (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=Xri7_l5l1RQ
+Successfully captured frame from: https://www.youtube.com/watch?v=TPcmrPrygDc
+SSIM score: 0.25922380898502273, MSE: 103.54418113425926
+Video Xri7_l5l1RQ from Zee News is not a parallel feed (SSIM <= 0.85)
+Comparing primary video TPcmrPrygDc with video CYICmRJhI9U
+Capturing frame from: https://www.youtube.com/watch?v=TPcmrPrygDc (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=CYICmRJhI9U (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=CYICmRJhI9U
+Successfully captured frame from: https://www.youtube.com/watch?v=TPcmrPrygDc
+SSIM score: 0.15165485994455793, MSE: 101.08081271701388
+Video CYICmRJhI9U from Zee News is not a parallel feed (SSIM <= 0.85)
+Comparing primary video IMLKyYzzQlQ with video -qYSlUR_5xo
+Capturing frame from: https://www.youtube.com/watch?v=IMLKyYzzQlQ (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=-qYSlUR_5xo (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=IMLKyYzzQlQ
+Successfully captured frame from: https://www.youtube.com/watch?v=-qYSlUR_5xo
+SSIM score: 0.267402244845733, MSE: 103.478154296875
+Video -qYSlUR_5xo from News24 is not a parallel feed (SSIM <= 0.85)
+Comparing primary video lmgy3Fgld5E with video fciIjCyWoKo
+Capturing frame from: https://www.youtube.com/watch?v=lmgy3Fgld5E (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=fciIjCyWoKo (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=fciIjCyWoKo
+Successfully captured frame from: https://www.youtube.com/watch?v=lmgy3Fgld5E
+SSIM score: 0.3438395289482507, MSE: 91.02607855902778
+Video fciIjCyWoKo from India News is not a parallel feed (SSIM <= 0.85)
+Comparing primary video lmgy3Fgld5E with video gESg6igq4kg
+Capturing frame from: https://www.youtube.com/watch?v=lmgy3Fgld5E (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=gESg6igq4kg (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=gESg6igq4kg
+Successfully captured frame from: https://www.youtube.com/watch?v=lmgy3Fgld5E
+SSIM score: 0.5468607487075373, MSE: 73.47110677083333
+Video gESg6igq4kg from India News is not a parallel feed (SSIM <= 0.85)
+Comparing primary video lmgy3Fgld5E with video mQafLgG46UY
+Capturing frame from: https://www.youtube.com/watch?v=lmgy3Fgld5E (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=mQafLgG46UY (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=mQafLgG46UY
+Successfully captured frame from: https://www.youtube.com/watch?v=lmgy3Fgld5E
+SSIM score: 0.30671892330711653, MSE: 89.310263671875
+Video mQafLgG46UY from India News is not a parallel feed (SSIM <= 0.85)
+Comparing primary video lmgy3Fgld5E with video sLCErM2Q72g
+Capturing frame from: https://www.youtube.com/watch?v=lmgy3Fgld5E (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=sLCErM2Q72g (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=sLCErM2Q72g
+Successfully captured frame from: https://www.youtube.com/watch?v=lmgy3Fgld5E
+SSIM score: 0.38567777213581944, MSE: 95.09205946180556
+Video sLCErM2Q72g from India News is not a parallel feed (SSIM <= 0.85)
+Comparing primary video lmgy3Fgld5E with video o53NAckX2Bw
+Capturing frame from: https://www.youtube.com/watch?v=lmgy3Fgld5E (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=o53NAckX2Bw (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=o53NAckX2Bw
+Successfully captured frame from: https://www.youtube.com/watch?v=lmgy3Fgld5E
+SSIM score: 0.38753213690399096, MSE: 87.21859809027778
+Video o53NAckX2Bw from India News is not a parallel feed (SSIM <= 0.85)
+Comparing primary video lmgy3Fgld5E with video p7nxoS1XCjw
+Capturing frame from: https://www.youtube.com/watch?v=lmgy3Fgld5E (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=p7nxoS1XCjw (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=p7nxoS1XCjw
+Successfully captured frame from: https://www.youtube.com/watch?v=lmgy3Fgld5E
+SSIM score: 0.36674808083827987, MSE: 91.5746950954861
+Video p7nxoS1XCjw from India News is not a parallel feed (SSIM <= 0.85)
+Comparing primary video lmgy3Fgld5E with video zCjByE9_Meg
+Capturing frame from: https://www.youtube.com/watch?v=lmgy3Fgld5E (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=zCjByE9_Meg (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=zCjByE9_Meg
+Successfully captured frame from: https://www.youtube.com/watch?v=lmgy3Fgld5E
+SSIM score: 0.4310980237607282, MSE: 89.27305881076389
+Video zCjByE9_Meg from India News is not a parallel feed (SSIM <= 0.85)
+Comparing primary video lmgy3Fgld5E with video VaO1njChY60
+Capturing frame from: https://www.youtube.com/watch?v=lmgy3Fgld5E (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=VaO1njChY60 (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=VaO1njChY60
+Successfully captured frame from: https://www.youtube.com/watch?v=lmgy3Fgld5E
+SSIM score: 0.2602687209884665, MSE: 97.00780707465277
+Video VaO1njChY60 from India News is not a parallel feed (SSIM <= 0.85)
+Comparing primary video lmgy3Fgld5E with video ZZGbHl9CA80
+Capturing frame from: https://www.youtube.com/watch?v=lmgy3Fgld5E (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=ZZGbHl9CA80 (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=ZZGbHl9CA80
+Successfully captured frame from: https://www.youtube.com/watch?v=lmgy3Fgld5E
+SSIM score: 0.5084838545266714, MSE: 82.35144338348765
+Video ZZGbHl9CA80 from India News is not a parallel feed (SSIM <= 0.85)
+Comparing primary video lmgy3Fgld5E with video lMJRS3h5ofk
+Capturing frame from: https://www.youtube.com/watch?v=lmgy3Fgld5E (Attempt 1/3)
+Capturing frame from: https://www.youtube.com/watch?v=lMJRS3h5ofk (Attempt 1/3)
+Successfully captured frame from: https://www.youtube.com/watch?v=lMJRS3h5ofk
+Successfully captured frame from: https://www.youtube.com/watch?v=lmgy3Fgld5E
+SSIM score: 0.47462112405155077, MSE: 71.10567708333333
+Video lMJRS3h5ofk from India News is not a parallel feed (SSIM <= 0.85)
+Saved live video details with primary and comparison to 'live_videos_with_primary_and_comparison.xlsx'.
